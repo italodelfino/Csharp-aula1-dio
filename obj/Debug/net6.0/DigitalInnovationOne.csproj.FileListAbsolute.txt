@@ -1,0 +1,15 @@
+C:\Git\DigitalInnovationOne\bin\Debug\net6.0\DigitalInnovationOne.exe
+C:\Git\DigitalInnovationOne\bin\Debug\net6.0\DigitalInnovationOne.deps.json
+C:\Git\DigitalInnovationOne\bin\Debug\net6.0\DigitalInnovationOne.runtimeconfig.json
+C:\Git\DigitalInnovationOne\bin\Debug\net6.0\DigitalInnovationOne.dll
+C:\Git\DigitalInnovationOne\bin\Debug\net6.0\DigitalInnovationOne.pdb
+C:\Git\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.csproj.AssemblyReference.cache
+C:\Git\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.AssemblyInfoInputs.cache
+C:\Git\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.AssemblyInfo.cs
+C:\Git\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+C:\Git\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.dll
+C:\Git\DigitalInnovationOne\obj\Debug\net6.0\refint\DigitalInnovationOne.dll
+C:\Git\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.pdb
+C:\Git\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.genruntimeconfig.cache
+C:\Git\DigitalInnovationOne\obj\Debug\net6.0\ref\DigitalInnovationOne.dll
